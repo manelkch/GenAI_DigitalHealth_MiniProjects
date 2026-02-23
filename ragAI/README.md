@@ -1,11 +1,18 @@
-ragAI project 
+**ragAI project**
 
-author : Manel EL KOUCH
+Author: Manel EL KOUCH
 
-Steps to run project :
+**Follow these steps to run the project locally:**
 
 streamlit run app.py
 
-Data Sources
+**Data Sources**
 
 Official clinical guidelines from NICE.
+
+**Requirements**
+
+This project uses:
+
+Python
+Streamlit
