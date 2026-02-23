@@ -1,11 +1,18 @@
-ragAI project 
+**agenticAI project**
 
-author : Manel EL KOUCH
+Author: Manel EL KOUCH
 
-Steps to run project :
+**Follow these steps to run the project locally:**
 
-streamlit run app.py
+*To run the first simple agent:*
+python run agent.py
 
-Data Sources
+*To run the web browser agent:*
+python run new_agent.py
 
-Official clinical guidelines from NICE.
+**Requirements**
+
+This project uses:
+
+Python
+
