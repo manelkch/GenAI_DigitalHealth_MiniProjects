@@ -1,0 +1,1 @@
+print("Merci pour votre visite !")

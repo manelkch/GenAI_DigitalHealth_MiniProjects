@@ -1,0 +1,2 @@
+"from bjr import afficher
+afficher()"

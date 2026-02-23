@@ -1,0 +1,7 @@
+python
+def test_multiplication():
+    from sum import multiply
+    assert multiply(2, 6) == 12
+
+if __name__ == '__main__':
+    test_multiplication()
